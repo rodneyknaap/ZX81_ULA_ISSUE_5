@@ -49,7 +49,7 @@ Schematic of the PCB:
 The schematic is also available in PDF.
 
 Schematic of the quartus project:
-![Bitmap schematic of the quartus CPLD project](ZX81_Issue5_ULA_quartus.gif)
+![Schematic of the quartus CPLD project](ZX81_CPLD_ULA_MODE_ISS5_quartus_schematic.pdf)
 
 The details of how to make the connections and modifications will be described shortly here in this text.
 
