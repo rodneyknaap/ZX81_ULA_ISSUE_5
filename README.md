@@ -46,10 +46,7 @@ All the logic in the CPLD is reconfigurable which allows more experimentation on
 Schematic of the PCB:
 ![Bitmap schematic of the ULA PCB](ZX81_Issue5_ULA_Schematic1.gif)
 
-The schematic is also available in PDF.
-
-Schematic of the quartus project:
-![Schematic of the quartus CPLD project](ZX81_CPLD_ULA_MODE_ISS5_quartus_schematic.pdf)
+This schematic and the schematic of the quartus project are available in PDF. 
 
 The details of how to make the connections and modifications will be described shortly here in this text.
 
