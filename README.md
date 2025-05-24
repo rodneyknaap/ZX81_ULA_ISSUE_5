@@ -33,7 +33,7 @@ It uses a small PCB which is plugged into the ULA socket, and requires some manu
 
 The main reasons for using additional connections are:
 - addition of 128KB SRAM which by default is available as 56KB
-- bank switching RAM could be created which allows access to the full SRAM capacity however beware of numbers of registers supported in CPLD which are limited
+- bank switching RAM could be created which allows access to the full SRAM capacity however beware of limitations in numbers of registers supported in the CPLD
 - bank switching granularity would 16KB per page, CPLD outputs A14-A16 to the SRAM
 - addition of line level tape loading input for using a phone or PC audio output to load programs into the ZX81
 - addition of a composite video driver transistor circuit using a potmeter to adjust composite voltage
