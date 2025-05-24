@@ -43,7 +43,13 @@ The CPLD could assist expansion in a number of ways, for example providing I/O d
 
 All the logic in the CPLD is reconfigurable which allows more experimentation on the ZX81 as well.  
 
+Schematic of the PCB:
 ![Bitmap schematic of the ULA PCB](ZX81_Issue5_ULA_Schematic1.gif)
+
+The schematic is also available in PDF.
+
+Schematic of the quartus project:
+![Bitmap schematic of the quartus CPLD project](ZX81_Issue5_ULA_quartus.gif)
 
 The details of how to make the connections and modifications will be described shortly here in this text.
 
