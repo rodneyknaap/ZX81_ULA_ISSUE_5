@@ -23,7 +23,7 @@ This project was inspired by:
 - Wilf Rigter who helped me with my PCB designs in the 1990s
 - the German ZX-Team who inspired me a lot by sending me their Magazin and kind letters and messages. Particularly Peter Liebert Adelt and Kai Fischer with whom I have had very pleasant and memorable contact in the 1990s years.
 
-![A picture of the ULA PCB](ZX81_Issue5_ULA_PCB_IMAGE.png)  
+![A picture of the ULA PCB](ZX81_Issue5_ULA_PCB_IMAGE1.png)  
 
 # Concept of the project
 # ZX81_ULA_ISSUE_5
