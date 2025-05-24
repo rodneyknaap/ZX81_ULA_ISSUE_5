@@ -32,7 +32,9 @@ This project has been designed as a replacement solution for the Sinclair ZX81 U
 It uses a small PCB which is plugged into the ULA socket, and requires some manual wiring of some ZX81 signals and a few modifications to the ZX81 to support full operation as designed.
 
 The main reasons for using additional connections are:
-- addition of full 56KB RAM or any smaller capacity fully configurable by CPLD programming
+- addition of 128KB SRAM which by default is available as 56KB
+- bank switching RAM could be created which allows access to the full SRAM capacity however beware of numbers of registers supported in CPLD which are limited
+- bank switching granularity would 16KB per page, CPLD outputs A14-A16 to the SRAM
 - addition of line level tape loading input for using a phone or PC audio output to load programs into the ZX81
 - addition of a composite video driver transistor circuit using a potmeter to adjust composite voltage
 - CHR$128 support is possible, UDG is supported using the SRAM on the ULA PCB
