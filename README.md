@@ -41,9 +41,12 @@ The CPLD used has some spare pins available which are routed to solderable pads,
 
 The CPLD could assist expansion in a number of ways, for example providing I/O decoding outputs, and wiring only the I/O device to the expansion port, or if the expansion circuit needed is smaller it could possibly be directly driven by the CPLD as well.
 
-All the logic in the CPLD is reconfigurable which allows more experimentation on the ZX81 as well.
+All the logic in the CPLD is reconfigurable which allows more experimentation on the ZX81 as well.  
 
-The details of how to do the connections and modifications will be described shortly here in this text.
+![Bitmap schematic of the ULA PCB](ZX81_Issue5_ULA_Schematic1.gif)  
+
+The details of how to make the connections and modifications will be described shortly here in this text.
+
 Please only attempt this project if you feel capable of constructing this PCB, properly connecting it inside a ZX81 and debugging the operation independently.
 Some creative construction would be useful to integrate this solution in a reliable way inside the ZX81.
 
