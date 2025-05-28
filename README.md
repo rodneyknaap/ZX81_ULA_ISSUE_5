@@ -1,4 +1,5 @@
-# About this project
+# ZX81 ULA ISSUE 5  
+About this project:
 This project has been designed as a replacement solution for the Sinclair ZX81 ULA.
 It uses a small PCB which is plugged into the ULA socket, and requires some manual wiring of some ZX81 signals and a few modifications to the ZX81 to support full operation as designed.  
 
