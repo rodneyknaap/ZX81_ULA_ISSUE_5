@@ -1,3 +1,6 @@
+This project has been designed as a replacement solution for the Sinclair ZX81 ULA.
+It uses a small PCB which is plugged into the ULA socket, and requires some manual wiring of some ZX81 signals and a few modifications to the ZX81 to support full operation as designed.  
+
 ## Purpose and permitted use, cautions for a potential builder of this design
 This project was created for historical purposes out of love for historical computing designs and for the purpose of enabling computing enthousiasts with a sufficient level of building and troubleshooting expertise to be able to experience the technology by building and troubleshooting the hardware described in this project.
 
